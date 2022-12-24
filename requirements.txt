@@ -17,3 +17,4 @@ wandb
 py7zr
 bert_score
 accelerate
+yake
